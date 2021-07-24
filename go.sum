@@ -32,5 +32,6 @@ github.com/tidwall/pretty v1.1.0/go.mod h1:XNkn88O1ChpSDQmQeStsy+sBenx6DDtFZJxhV
 github.com/tidwall/pretty v1.2.0 h1:RWIZEg2iJ8/g6fDDYzMpobmaoGh5OLl4AXtGUGPcqCs=
 github.com/tidwall/pretty v1.2.0/go.mod h1:ITEVvHYasfjBbM0u2Pg8T2nJnzm8xPwvNhhsoaGGjNU=
 github.com/wit-ai/wit-go v1.0.13 h1:pj+u0fu/Um7TZiwMUo/TpeAs2VKnB6Ulnb+dlWaN3JI=
+github.com/wit-ai/wit-go v1.0.13/go.mod h1:dvYKl9yrz0VtE6tA1p72WytqCvHrTjdfVnYu7PVM9sk=
 github.com/wit-ai/wit-go/v2 v2.0.2 h1:poO2FW2eQqfb3iMf/54KA7nSTYkLlI7n/wu7bYubomY=
 github.com/wit-ai/wit-go/v2 v2.0.2/go.mod h1:3uAerZ/h9riAOquOZc5/qPinCXrzeBO3KL/r208FWos=
